@@ -1,0 +1,1 @@
+Hello World. I am writing my first sample text from inside of VIM. 
